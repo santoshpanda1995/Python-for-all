@@ -34,5 +34,5 @@
   <tr>
     <td>5</td>
     <td>EDA on iris dataset</td>
-    <td><a href="https://github.com/santoshpanda1995/Matplotlib-Programs">[Link]</a></td>
+    <td><a href="https://github.com/santoshpanda1995/Python-for-all/blob/main/Elements_AIML_lab2.ipynb">[Link]</a></td>
   </tr>
