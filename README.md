@@ -36,3 +36,9 @@
     <td>EDA on iris dataset</td>
     <td><a href="https://github.com/santoshpanda1995/Python-for-all/blob/main/Elements_AIML_lab2.ipynb">[Link]</a></td>
   </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Handwritten digit recognition using MNIST</td>
+    <td><a href="https://github.com/santoshpanda1995/Python-for-all/blob/main/MNIST_image_classification.ipynb">[Link]</a></td>
+  </tr>
