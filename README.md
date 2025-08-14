@@ -34,7 +34,7 @@
   <tr>
     <td>5</td>
     <td>EDA on iris dataset</td>
-    <td><a href="https://github.com/santoshpanda1995/Python-for-all/blob/main/Elements_AIML_lab2.ipynb">[Link]</a></td>
+    <td><a href="https://github.com/santoshpanda1995/Python-for-all/blob/main/EDA_on_iris.ipynb">[Link]</a></td>
   </tr>
 
   <tr>
